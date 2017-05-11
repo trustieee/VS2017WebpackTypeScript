@@ -1,0 +1,15 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "removeComments": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "vs2017webpacktypescript",
+  "version": "1.0.0",
+  "description": "YAB (yet another boiletplate), containing Visual Studio 2017, Webpack, and TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "author": "@mario_catch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariocatch/vs2017webpacktypescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariocatch/vs2017webpacktypescript/issues"
+  },
+  "homepage": "https://github.com/mariocatch/vs2017webpacktypescript",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2"
+  }
+}
